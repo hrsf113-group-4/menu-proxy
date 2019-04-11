@@ -1,0 +1,14 @@
+#app{
+  display: inline-block;
+}
+#menu{
+  display: inline-block;
+}
+#reviews{
+  display: flex;
+  justify-content: center
+}
+#big{
+  display: flex;
+  flex-direction: column;
+}
